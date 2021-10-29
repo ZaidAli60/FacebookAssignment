@@ -191,3 +191,277 @@
 
 
                                         /* navgition Bar end */
+
+                                       /* navgition Bar end */
+ .container{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 1%;
+ }
+ .Left-sidebar{
+    background-color: whitesmoke;
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+    /* height: 100vh; */
+    
+ }    
+ .right-sidebar{
+    /* background-color: whitesmoke; */
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    color: #626262;
+ }
+ .main-contant{
+     flex-basis: 47%;
+ }
+ .link > a{
+     text-decoration: none;
+     align-items: center;
+     margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+    display: flex;
+    
+ }
+ .link a img{
+     /* width: 25px; */
+     margin-right: 15px;
+     border-radius: 50%;
+ }
+ .link{
+     border-bottom:1px solid #ccc ;
+ }
+ .shortcut a{
+     margin-top: 20px;
+    text-decoration: none;
+     align-items: center;
+     margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+    display: flex;
+ }
+ .shortcut a img{
+    /* width: 25px; */
+    margin-right: 15px;
+    border-radius: 10px;
+   
+} 
+.shortcut p{
+    margin: 25px 0px;
+    font-weight: bold;
+}                                 
+                                /* Left-sidebar-end */
+ .active
+                                       /* navgition Bar end */
+ .container{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 1%;
+ }
+ .Left-sidebar{
+    background-color: whitesmoke;
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+    /* height: 100vh; */
+    
+ }    
+ .right-sidebar{
+    /* background-color: whitesmoke; */
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    color: #626262;
+ }
+ .main-contant{
+     flex-basis: 47%;
+ }
+ .link > a{
+     text-decoration: none;
+     align-items: center;
+     margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+    display: flex;
+    
+ }
+ .link a img{
+     /* width: 25px; */
+     margin-right: 15px;
+     border-radius: 50%;
+ }
+ .link{
+     border-bottom:1px solid #ccc ;
+ }
+ .shortcut a{
+     margin-top: 20px;
+    text-decoration: none;
+     align-items: center;
+     margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+    display: flex;
+ }
+ .shortcut a img{
+    /* width: 25px; */
+    margin-right: 15px;
+    border-radius: 10px;
+   
+} 
+.shortcut p{
+    margin: 25px 0px;
+    font-weight: bold;
+}                                 
+
+/* Left-sidebar-end */  
+
+
+                                      /* navgition Bar end */
+ .container{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 1%;
+ }
+ .Left-sidebar{
+    background-color: whitesmoke;
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+    /* height: 100vh; */
+    
+ }    
+ .right-sidebar{
+    /* background-color: whitesmoke; */
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    color: #626262;
+ }
+ .main-contant{
+     flex-basis: 47%;
+ }
+ .link > a{
+     text-decoration: none;
+     align-items: center;
+     margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+    display: flex;
+    
+ }
+ .link a img{
+     /* width: 25px; */
+     margin-right: 15px;
+     border-radius: 50%;
+ }
+ .link{
+     border-bottom:1px solid #ccc ;
+ }
+ .shortcut a{
+     margin-top: 20px;
+    text-decoration: none;
+     align-items: center;
+     margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+    display: flex;
+ }
+ .shortcut a img{
+    /* width: 25px; */
+    margin-right: 15px;
+    border-radius: 10px;
+   
+} 
+.shortcut p{
+    margin: 25px 0px;
+    font-weight: bold;
+}                                 
+   /* Left-sidebar-end */
+ 
+                                         /* navgition Bar end */
+ .container{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 1%;
+ }
+ .Left-sidebar{
+    background-color: whitesmoke;
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+    /* height: 100vh; */
+    
+ }    
+ .right-sidebar{
+    /* background-color: whitesmoke; */
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    color: #626262;
+ }
+ .main-contant{
+     flex-basis: 47%;
+ }
+ .link > a{
+     text-decoration: none;
+     align-items: center;
+     margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+    display: flex;
+    
+ }
+ .link a img{
+     /* width: 25px; */
+     margin-right: 15px;
+     border-radius: 50%;
+ }
+ .link{
+     border-bottom:1px solid #ccc ;
+ }
+ .shortcut a{
+     margin-top: 20px;
+    text-decoration: none;
+     align-items: center;
+     margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+    display: flex;
+ }
+ .shortcut a img{
+    /* width: 25px; */
+    margin-right: 15px;
+    border-radius: 10px;
+   
+} 
+.shortcut p{
+    margin: 25px 0px;
+    font-weight: bold;
+}                                 
+                                /* Left-sidebar-end */
+  
+ 
+  
+                                
