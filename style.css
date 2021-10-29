@@ -613,6 +613,42 @@
         top: unset;
         bottom: 5px;
     }
+
+
+
+
+
+
+
+
+
+    @media only screen and (max-width:900px) {
+        .Left-sidebar {
+                display: none;
+         }
+        
+     }
+     @media only screen and (max-width:830px) {
+        .right-sidebar{
+            display: none;
+        } 
+       
+      
+     }
+    
+     @media only screen and (max-width:630px) {
+        .main-contant{
+            /* width: 100%; */
+            width: 500px;
+        }
+     }
+     @media only screen and (max-width:500px) {
+        .main-contant{
+            /* width: 100%; */
+            width: 500px;
+        }
+     }
+    
   
  
   
